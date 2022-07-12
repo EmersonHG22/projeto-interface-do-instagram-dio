@@ -13,4 +13,4 @@
 
 ### Linguagem:
 
-* HTML |CSS
+* HTML | CSS
